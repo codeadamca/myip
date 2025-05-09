@@ -102,7 +102,6 @@ if (!empty($json['latitude']) && !empty($json['longitude'])) {
 </head>
 <body>
     <h1>Bird IP</h1>
-    <p>I have a deep appreciation for birds, drawn to their beauty, unique behaviors, and the sense of wonder they bring. Whether it's observing their vibrant colors, listening to their songs, or learning about different species, birds have always been a source of fascination. This passion extends to exploring bird habitats, understanding their role in ecosystems, and perhaps even capturing their elegance through photography or illustration.</p>
     <div> 
         <center>
             <img src="images/chick.svg" alt="">
