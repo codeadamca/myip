@@ -41,7 +41,7 @@ if (!empty($json['latitude']) && !empty($json['longitude'])) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bird IP</title>
+    <title>Bird IP | CodeAdam</title>
     <link rel="stylesheet" href="styles/style.css">
     <script src="https://maps.googleapis.com/maps/api/js?key=<?= GOOGLE_MAPS_API_KEY ?>&callback=initMap" async defer></script>
     <script>
