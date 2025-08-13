@@ -12,7 +12,7 @@ A basic tool to fetch a visitors IP address and approximate location.
 
 ## Project Stack
 
-This project uses [PHP](https://php.net) along with the Google Maps API, IP Stack, and the eBird API. 
+This project uses [PHP](https://php.net) along with the [Google Maps API](https://developers.google.com/maps), [IP Stack](https://ipstack.com/), and the [eBird API](https://ebird.org). 
 
 <img src="https://console.codeadam.ca/api/image/php" width="60" alt="">
 
